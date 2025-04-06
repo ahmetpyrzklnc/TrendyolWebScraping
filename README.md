@@ -39,7 +39,7 @@ A web scraper developed to automatically download product images from Trendyol M
 
 1. Clone the project:
 ```bash
-git clone [repo-url]
+git clone https://github.com/ahmetpyrzklnc/TrendyolWebScraping.git
 cd trendyolMilla
 ```
 
